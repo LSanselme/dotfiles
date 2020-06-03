@@ -1,0 +1,8 @@
+export PATH_TO_PLAYGROUND="$HOME/Desktop"
+export PATH_TO_PROJECTS="$HOME/MY_GIT_REPOS"
+export TEXT_EDITOR="emacs"
+
+# This should be the last line of the file
+# For local changes
+# Don't make edits below this
+[ -f ".exports.local" ] && source ".exports.local"
