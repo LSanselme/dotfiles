@@ -3,4 +3,4 @@
 	name = Lilian Sanselme
 [core]
 	excludesfile = /Users/liliansanselme/.gitignore_global
-	editor = emacs
+	editor = vim
